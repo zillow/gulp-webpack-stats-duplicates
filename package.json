@@ -1,0 +1,25 @@
+{
+  "name": "gulp-webpack-stats-duplicates",
+  "version": "1.0.0",
+  "description": "Gulp plugin for finding duplicate modules in your webpack stats.json",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3",
+    "webpack-stats-duplicates": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zillow/gulp-webpack-stats-duplicates.git"
+  },
+  "author": "brians@zillowgroup.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zillow/gulp-webpack-stats-duplicates/issues"
+  },
+  "homepage": "https://github.com/zillow/gulp-webpack-stats-duplicates#readme"
+}
